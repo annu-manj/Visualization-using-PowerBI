@@ -16,39 +16,39 @@ From the provided HR Analytics dashboard, the following insights can be derived:
 * Most attrition occurs within the first 0-2 years (60 employees). There is a noticeable decline in attrition rates as tenure increases.
 * The Laboratory Technician role experiences the highest attrition (60 employees).
 
-**Recommendations:**
-1.Since most attrition happens within the first 0-2 years, focus on onboarding and early career development programs to reduce early turnover.
-2.Investigate the reasons behind high attrition in roles such as Laboratory Technician, Sales Executive, and Research Scientist, and implement role-specific retention strategies.
-3.Since most attrition occurs in the lower salary ranges (up to 5k), consider reviewing the compensation packages to ensure they are competitive and fair.
-4.Enhance Job Satisfaction
-5.Support for Life Sciences and Technical Degree Holders
-6.Age-Specific Retention Programs: Since a significant portion of attrition occurs in the 26-35 age group, consider age-specific retention initiatives, such as career progression opportunities and work-life balance support.
+**Recommendations:**  
+1.Since most attrition happens within the first 0-2 years, focus on onboarding and early career development programs to reduce early turnover.  
+2.Investigate the reasons behind high attrition in roles such as Laboratory Technician, Sales Executive, and Research Scientist, and implement role-specific retention strategies.  
+3.Since most attrition occurs in the lower salary ranges (up to 5k), consider reviewing the compensation packages to ensure they are competitive and fair.  
+4.Enhance Job Satisfaction  
+5.Support for Life Sciences and Technical Degree Holders  
+6.Age-Specific Retention Programs: Since a significant portion of attrition occurs in the 26-35 age group, consider age-specific retention initiatives, such as career progression opportunities and work-life balance support.  
 
 
-# Customer Churn analysis
+# Customer Churn analysis  
 ![image](https://github.com/user-attachments/assets/8e25a505-f38f-4471-9934-de4f63f48c08)
 
-**Overall Metrics:**
-* There are 7032 customers in total.
-* There are 3621 tech tickets and 3621 admin tickets recorded.
-* The total monthly charge is 455.66K.
-* The total charge accumulated is 16.06M.
-* Preferred Payment Methods:
-    * The majority of customers prefer using electronic checks.
-*  Contract Distribution:
-    * Most customers are on month-to-month contracts.
-* Gender Distribution:
-    * The gender split is nearly even, with 50.47% female and 49.53% male customers.
-* The largest segment of customers use fiber optic (44.03%).
+**Overall Metrics:**   
+* There are 7032 customers in total.  
+* There are 3621 tech tickets and 3621 admin tickets recorded.  
+* The total monthly charge is 455.66K.  
+* The total charge accumulated is 16.06M.  
+* Preferred Payment Methods:  
+    * The majority of customers prefer using electronic checks.  
+*  Contract Distribution:  
+    * Most customers are on month-to-month contracts. 
+* Gender Distribution:  
+    * The gender split is nearly even, with 50.47% female and 49.53% male customers.  
+* The largest segment of customers use fiber optic (44.03%).  
 
-# SALES INSIGHTS
+# SALES INSIGHTS  
 
-**Objective:** Developed a Power BI dashboard to analyze sales performance across different regions.<br>
-**Tools Used:** Power BI, SQL<Br>
-**Key Features:**<Br>
-Interactive filters to view sales data by product, region, and time period.<br>
-Visualizations including Stacked bar charts, line graphs, and slice bars.<br>
-Drill-through capability for detailed insights<Br>
+**Objective:** Developed a Power BI dashboard to analyze sales performance across different regions.<br>  
+**Tools Used:** Power BI, SQL<Br>  
+**Key Features:**<Br>  
+Interactive filters to view sales data by product, region, and time period.<br>  
+Visualizations including Stacked bar charts, line graphs, and slice bars.<br>  
+Drill-through capability for detailed insights<Br>  
 Enabled the sales team to identify top-revenue producing products and regions.<Br>
 
 ![image](https://github.com/user-attachments/assets/a3ee032c-b5c9-4e89-a55a-2bf659b2cb76)
