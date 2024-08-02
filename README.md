@@ -1,6 +1,6 @@
-# Visualization using PowerBI
+# VISUALIZATION USING POWER BI
 
-# HR ANALYTICS
+## HR ANALYTICS
 ![image](https://github.com/user-attachments/assets/4d57188f-1619-4594-93b7-0487da98ddfe)
 
 From the provided HR Analytics dashboard, the following insights can be derived:
@@ -25,7 +25,7 @@ From the provided HR Analytics dashboard, the following insights can be derived:
 6.Age-Specific Retention Programs: Since a significant portion of attrition occurs in the 26-35 age group, consider age-specific retention initiatives, such as career progression opportunities and work-life balance support.  
 
 
-# Customer Churn analysis  
+## CUSTOMER CHURN ANALYSIS 
 ![image](https://github.com/user-attachments/assets/8e25a505-f38f-4471-9934-de4f63f48c08)
 
 **Overall Metrics:**   
@@ -41,7 +41,7 @@ From the provided HR Analytics dashboard, the following insights can be derived:
     * The gender split is nearly even, with 50.47% female and 49.53% male customers.  
 * The largest segment of customers use fiber optic (44.03%).  
 
-# SALES INSIGHTS  
+## SALES INSIGHTS  
 
 **Objective:** Developed a Power BI dashboard to analyze sales performance across different regions.<br>  
 **Tools Used:** Power BI, SQL<Br>  
